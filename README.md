@@ -6,15 +6,11 @@
 
 <br><br>
 
-<!-- <h3><code>souvik@github ~ $ whoami</code></h3> -->
-<p>
+<h3><code><p>
   Full Stack Developer · Extension Developer · Cybersecurity Enthusiast
 </p>
+</code></h3>
 
-<p>
-  I build web applications, browser extensions, and developer-focused tools.
-  Interested in security, automation, and building things that are actually useful.
-</p>
 
 
 <table>
