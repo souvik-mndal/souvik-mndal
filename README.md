@@ -4,7 +4,6 @@
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
-<br><br>
 
 <h3><code><p>
   Full Stack Developer · Extension Developer · Cybersecurity Enthusiast
