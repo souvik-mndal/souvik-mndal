@@ -2,16 +2,6 @@
 
 <!-- <h3><code>souvik@github ~ $ ./contributions.sh</code></h3> -->
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
-
-
-<h3><code><p>
-  Full Stack Developer · Extension Developer · Cybersecurity Enthusiast
-</p>
-</code></h3>
-
-
-
 <table>
   <tr>
     <td valign="top">
@@ -22,5 +12,15 @@
     </td>
   </tr>
 </table>
+
+
+<h3><code><p>
+  Full Stack Developer · Extension Developer · Cybersecurity Enthusiast
+</p>
+</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+
+
+
 
 </div>
