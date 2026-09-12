@@ -14,10 +14,13 @@
 </table>
 
 
-<h3><code><p>
-  Full Stack Developer · Extension Developer · Cybersecurity Enthusiast
+
+  <p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0D1117?style=for-the-badge&logo=code&logoColor=58A6FF&labelColor=161B22&color=58A6FF">
+  <img src="https://img.shields.io/badge/Extension%20Developer-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A371F7&labelColor=161B22&color=A371F7">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-0D1117?style=for-the-badge&logo=hackthebox&logoColor=3FB950&labelColor=161B22&color=3FB950">
 </p>
-</code></h3>
+
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
 
