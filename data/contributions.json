@@ -1,22 +1,22 @@
 {
   "username": "souvik-mndal",
-  "generated_at": "2026-10-12T15:41:07Z",
+  "generated_at": "2026-10-13T14:21:38Z",
   "range": {
     "start": "2025-10-12",
+    "end": "2026-10-13"
+  },
+  "total_contributions": 782,
+  "active_days": 130,
+  "avg_per_active_day": 6.0,
+  "current_streak": {
+    "length": 39,
+    "start": "2026-09-04",
     "end": "2026-10-12"
   },
-  "total_contributions": 781,
-  "active_days": 129,
-  "avg_per_active_day": 6.1,
-  "current_streak": {
-    "length": 38,
-    "start": "2026-09-04",
-    "end": "2026-10-11"
-  },
   "longest_streak": {
-    "length": 38,
+    "length": 39,
     "start": "2026-09-04",
-    "end": "2026-10-11"
+    "end": "2026-10-12"
   },
   "best_day": {
     "date": "2026-09-08",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 20
+      "total": 21
     }
   ],
   "days": [
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-10-12",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
       "count": 0
     }
   ]
